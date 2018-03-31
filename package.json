@@ -1,0 +1,23 @@
+{
+  "name": "mongo-basics",
+  "version": "1.0.0",
+  "description": "A repository created while learning Mongo basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitrusty314/mongo-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitrusty314/mongo-basics/issues"
+  },
+  "homepage": "https://github.com/rohitrusty314/mongo-basics#readme",
+  "dependencies": {
+    "mongoose": "^5.0.12"
+  }
+}
